@@ -1,4 +1,4 @@
-# Online Crime Reporting Tool - AWS Cloud Solution
+# SafeReport - AWS Cloud Solution
 
 A modern, cloud-based platform for reporting crimes securely and efficiently, leveraging AWS serverless services to ensure scalability, security, and performance.
 
